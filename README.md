@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Yo1up
-- 👀 I’m interested in artificial intelligence, data science, and automation.
-- 🌱 I’m currently learning methods to accelerate and refine image denoising for ray-traced computer graphics
-- 💞️ I’m looking to collaborate on a denoising model
-- 📫 How to reach me ...
+- 👀 I’m interested in artificial intelligence, and data science.
+- 🌱 I’m currently learning methods to control diffusion based image generation models
+- 📫 How to reach me ... don't I'm not very good yet.
 
 <!---
 Yo1up/Yo1up is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
