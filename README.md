@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yo1up
-- 👀 I’m interested in artificial intelligence, and data science.
-- 🌱 I’m currently learning methods to control diffusion based image generation models
-- 📫 How to reach me ... don't I'm not very good yet.
+- 👀 I’m interested in artificial intelligence, and data science. in particular I have enjoyed working with recommendation systems recently and generative AI.
+- 🌱 I’m currently learning efficient online recommendation algorithms.
+- 📫 You can reach me at schultzcody695@gmail.com
 
 <!---
 Yo1up/Yo1up is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
