@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yo1up
+- 👋 Hi, I’m @cody-schultz-DS
 - 👀 I’m interested in artificial intelligence, and data science. in particular I have enjoyed working with recommendation systems recently and generative AI.
 - 🌱 I’m currently learning efficient online recommendation algorithms.
 - 📫 You can reach me at schultzcody695@gmail.com
